@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.AliveGR" name="AliveGR" version="2.12.5" provider-name="Twilight0">
+<addon id="plugin.video.AliveGR" name="AliveGR" version="2.12.6" provider-name="Twilight0">
     <requires>
         <import addon="xbmc.addon" version="17.9.910"/>
         <import addon="resource.images.alivegr.artwork" version="3.0.6"/>
@@ -38,6 +38,7 @@ Kindly note that AliveGR is not an official part of the media player you are run
 - Combined two m3u's from Github to give more choices for LiveTV
 - Fixed parser that threw an error when not finding the year
 - Replaced one source that was no longer on github
+- Fixed the broken URL that checked version
 
 2025 Fix:
 - Changed URL for liveTV to one that is current. Fixed code for the liveTV icons.
